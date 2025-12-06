@@ -2,10 +2,10 @@
 ## Front matter
 lang: ru-RU
 title: Математические основы защиты информации и информационной безопасности
-author: Колчева Юлия Вячеславовна
+author: Савченко Елизавета Николаевна
 institute: РУДН, Москва, Россия
 
-date: 07 Декабря 2024
+date: 06 декабря 2025
 
 ## Formatting
 toc: false
@@ -24,15 +24,19 @@ section-titles: true
 
 ## р-метод Полларда.
 
-![Реализация программы](image/1.png){ #fig:001 width=70% }
+![71.jpg](image/71.jpg)
+![72.jpg](image/72.jpg)
+![73.jpg](image/73.jpg)
 
 ## р-метод Полларда.
 
-![Реализация программы](image/2.png){ #fig:002 width=70% }
+![74.jpg](image/74.jpg)
+![75.jpg](image/75.jpg)
 
 ## Результат работы.
 
-![Вывод программы](image/3.png){ #fig:003 width=70% }
+![76.jpg](image/76.jpg)
+![77.jpg](image/77.jpg)
 
 ## Выводы
 
